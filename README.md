@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm a master student (physics) working on Outcome-Guided NTCP models for Radiotherapy Treatment Plan Optimization. 
 
 <!--
 **FlorianPigged/FlorianPigged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
